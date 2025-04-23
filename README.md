@@ -1,16 +1,38 @@
-## Hi there 👋
+AI Engineer & Creative Technologist 🚀
 
-<!--
-**ludoveltz/ludoveltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Bonjour ! 👋 Je suis passionné par la convergence entre l'Intelligence Artificielle, la 3D et les expériences interactives. Fort d'une solide expérience en capture de la réalité et modélisation 3D (notamment sur des projets pour Parrot impliquant Versailles ou l'île de Saint Barthélémy), je me suis récemment spécialisé en IA Générative et Machine Learning via un bootcamp intensif.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mon objectif est de mettre à profit cette double compétence unique pour créer des solutions innovantes. 
+
+---
+
+### 🛠️ Compétences Techniques
+
+* **IA & Machine Learning:**
+    * Langages : **Python** 
+    * Frameworks/Libs : PyTorch, TensorFlow, Scikit-learn, Keras 
+    * IA Générative : **LangChain**, RAG, LLMs (GPT), Prompt Engineering, Chatbots 
+    * NLP : Transformers 
+    * Vector DB : FAISS 
+* **3D & Vision par Ordinateur:**
+    * Outils/Techniques : **Photogrammétrie**, Reality Capture, Meshroom, MeshLab, Blender 
+    * Web 3D : **CesiumJS**, Resium
+    * Vision : OpenCV 
+* **Développement Web:**
+    * Frontend : **React**, JavaScript, HTML, CSS
+    * Backend : **Flask**, FastAPI 
+* **Outils & DevOps:**
+    * Git, **Docker**, VSCode, Google Colab, Jupyter 
+
+---
+
+### 🌱 Sur quoi je travaille / Ce que j'apprends
+
+* Intégration d'avatars IA parlants (exploration API D-ID, etc.).
+* Optimisation de prompts et de chaînes LangChain.
+* Application du RAG (Retrieval-Augmented Generation) pour des chatbots plus pointus.
+* Exploration des techniques de rendu 3D temps réel et d'optimisation.
+
+---
